@@ -4,6 +4,6 @@ Parses songs from a semi-formatted text file and stores each song's information 
 ## Song Formatting
 This parser reads lines that describe a song in the following format:
 
-"<Song Name>" <Artist> <Chord Progression(s)>
+"{Song Name}" {Artist} {Chord Progression(s)}
   
  and it creates a JSON file where each entry in the JS array has these 3 fields.
