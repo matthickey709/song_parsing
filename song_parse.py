@@ -30,7 +30,7 @@ for song in songs:
     if title and artist and chords:
         songs_formatted.append(curr_song)
     else:
-        print "Trouble with song: ", song
+        print("Trouble with song: ", song)
 
 with open('4chords_formatted.json', 'w+') as js:
     json.dump(songs_formatted, js, indent=4)
