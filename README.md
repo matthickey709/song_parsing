@@ -17,3 +17,5 @@ and it creates a JSON file where each entry in the JS array has these 3 fields:
     "title": "Let It Be"
 }
 ```
+
+Song List was taken from http://truefire.com/blog/guitar-lessons/229-easy-guitar-songs-just-4-chords/
